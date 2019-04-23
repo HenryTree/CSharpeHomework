@@ -1,0 +1,7 @@
+C:\Users\cunsh\Desktop\学习\学校课程\大三下\c#作业\CsharpeHomework-master\CsharpeHomework-master\Homework8\ordertest\bin\Debug\ordertest.exe.config
+C:\Users\cunsh\Desktop\学习\学校课程\大三下\c#作业\CsharpeHomework-master\CsharpeHomework-master\Homework8\ordertest\bin\Debug\ordertest.exe
+C:\Users\cunsh\Desktop\学习\学校课程\大三下\c#作业\CsharpeHomework-master\CsharpeHomework-master\Homework8\ordertest\bin\Debug\ordertest.pdb
+C:\Users\cunsh\Desktop\学习\学校课程\大三下\c#作业\CsharpeHomework-master\CsharpeHomework-master\Homework8\ordertest\obj\Debug\ordertest.csprojResolveAssemblyReference.cache
+C:\Users\cunsh\Desktop\学习\学校课程\大三下\c#作业\CsharpeHomework-master\CsharpeHomework-master\Homework8\ordertest\obj\Debug\ordertest.csproj.CoreCompileInputs.cache
+C:\Users\cunsh\Desktop\学习\学校课程\大三下\c#作业\CsharpeHomework-master\CsharpeHomework-master\Homework8\ordertest\obj\Debug\ordertest.exe
+C:\Users\cunsh\Desktop\学习\学校课程\大三下\c#作业\CsharpeHomework-master\CsharpeHomework-master\Homework8\ordertest\obj\Debug\ordertest.pdb
