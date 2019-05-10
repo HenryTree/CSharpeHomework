@@ -1,0 +1,2 @@
+D:\Source\兼职项目\order-ef-winform\ADODataSet\obj\Debug\ADODataSet.csprojAssemblyReference.cache
+D:\Source\兼职项目\order-ef-winform\ADODataSet\obj\Debug\ADODataSet.csproj.CoreCompileInputs.cache

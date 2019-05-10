@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "EF.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/EF.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EF.Core.dll": {}
+        }
+      },
+      "Model.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Model.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EF.Core/1.0.0": {
+      "type": "project",
+      "path": "../EF.Core/EF.Core.csproj",
+      "msbuildProject": "../EF.Core/EF.Core.csproj"
+    },
+    "Model.Core/1.0.0": {
+      "type": "project",
+      "path": "../Model.Core/Model.Core.csproj",
+      "msbuildProject": "../Model.Core/Model.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "EF.Core >= 1.0.0",
+      "Model.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\cunsh\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\cunsh\\Desktop\\050629\\050629\\order-ef-winform\\order-ef-winform\\WebApi.Core\\WebApi.Core.csproj",
+      "projectName": "WebApi.Core",
+      "projectPath": "C:\\Users\\cunsh\\Desktop\\050629\\050629\\order-ef-winform\\order-ef-winform\\WebApi.Core\\WebApi.Core.csproj",
+      "packagesPath": "C:\\Users\\cunsh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cunsh\\Desktop\\050629\\050629\\order-ef-winform\\order-ef-winform\\WebApi.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\cunsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "C:\\Users\\cunsh\\Desktop\\050629\\050629\\order-ef-winform\\order-ef-winform\\EF.Core\\EF.Core.csproj": {
+              "projectPath": "C:\\Users\\cunsh\\Desktop\\050629\\050629\\order-ef-winform\\order-ef-winform\\EF.Core\\EF.Core.csproj"
+            },
+            "C:\\Users\\cunsh\\Desktop\\050629\\050629\\order-ef-winform\\order-ef-winform\\Model.Core\\Model.Core.csproj": {
+              "projectPath": "C:\\Users\\cunsh\\Desktop\\050629\\050629\\order-ef-winform\\order-ef-winform\\Model.Core\\Model.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
